@@ -1,0 +1,13 @@
+# Secrets
+.env
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Your personal data stays on your computer. Only the *.example.json files are shared.
+data/*.db
+data/profile.json
+data/seed_memories.json
+memories_backup.json

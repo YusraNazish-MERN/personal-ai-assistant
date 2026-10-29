@@ -1,0 +1,11 @@
+[
+  {
+    "text": "Example: I am building a weather dashboard with Streamlit.",
+    "category": "project",
+    "as_of": "2026-01-01"
+  },
+  {
+    "text": "Example: I prefer learning by building small projects first.",
+    "category": "learning_style"
+  }
+]

@@ -1,0 +1,14 @@
+{
+  "_help": "Copy this to data/profile.json (the app does it automatically on first run) and fill it in. The assistant reads it but NEVER changes it. Keys starting with _ are ignored. Empty fields are skipped.",
+  "preferred_name": "Your first name",
+  "full_name": "",
+  "location": "",
+  "education": "",
+  "work": [],
+  "technologies": [],
+  "communication_preferences": [
+    "Practical and honest answers",
+    "Complete code files, not fragments"
+  ],
+  "learning_style": []
+}
